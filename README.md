@@ -13,3 +13,4 @@
 ```
 pip install pygame
 ```
+ссылка на мой профиль в Githab <https://github.com/ARSENIYSIGMA/>
