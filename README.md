@@ -1,6 +1,6 @@
 # shooter_last
 
-![ракета](https://cdn-icons-png.flaticon.com/512/4549/4549407.png)
+![ракета](https://avatars.mds.yandex.net/get-yapic/51169/W5MwxJWo47uyMzBGLSSMwFeleA-1/islands-retina-50)
 ## описание
 
 игра...........:)
