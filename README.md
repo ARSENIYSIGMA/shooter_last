@@ -1,6 +1,6 @@
 # shooter_last
 
-
+![ракетаъ(https://cdn-icons-png.flaticon.com/512/4549/4549407.png)
 ## описание
 
 игра...........:)
